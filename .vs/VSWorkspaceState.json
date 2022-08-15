@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ManagerDbContext",
+    "\\ManagerDbContext\\EF",
+    "\\Models",
+    "\\Models\\Models",
+    "\\OnlineShop",
+    "\\OnlineShop\\Views",
+    "\\OnlineShop\\Views\\Home"
+  ],
+  "SelectedNode": "\\OnlineShop.sln",
+  "PreviewInSolutionExplorer": false
+}

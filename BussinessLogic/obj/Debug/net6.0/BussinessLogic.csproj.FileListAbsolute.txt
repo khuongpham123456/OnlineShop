@@ -1,0 +1,12 @@
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\bin\Debug\net6.0\BussinessLogic.deps.json
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\bin\Debug\net6.0\BussinessLogic.dll
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\bin\Debug\net6.0\BussinessLogic.pdb
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.csproj.AssemblyReference.cache
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.AssemblyInfoInputs.cache
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.AssemblyInfo.cs
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.csproj.CoreCompileInputs.cache
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.dll
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\refint\BussinessLogic.dll
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\BussinessLogic.pdb
+D:\ASP_Net_MVC\OnlineShop\BussinessLogic\obj\Debug\net6.0\ref\BussinessLogic.dll

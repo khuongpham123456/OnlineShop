@@ -1,0 +1,12 @@
+D:\ASP_Net_MVC\OnlineShop\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\ASP_Net_MVC\OnlineShop\Repository\bin\Debug\net6.0\Repository.dll
+D:\ASP_Net_MVC\OnlineShop\Repository\bin\Debug\net6.0\Repository.pdb
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.dll
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\Repository.pdb
+D:\ASP_Net_MVC\OnlineShop\Repository\obj\Debug\net6.0\ref\Repository.dll
